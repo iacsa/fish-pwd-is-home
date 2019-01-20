@@ -1,6 +1,6 @@
 # fish-pwd-is-home
 
-Check if the current working directory is `$HOME` or below it.
+A [fish shell](https://fishshell.com) package to check if the current working directory is `$HOME` or below it. 
 
 ## Installation
 
